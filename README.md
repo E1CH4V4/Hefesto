@@ -6,7 +6,6 @@ Archlinux installer
    /_\ | |_ / _ \/ __| __/ _ \   | |     | | | |
   //__ |  _|  __/\__ \ || (_) |  | |  _  | |_| |
   \__/ |_|  \___||___/\__\___/   |_| (_)  \___/ 
- 
 
 Español:
 Esta es la version 1.0, falta pulir detalles y optimisar el software ahun esta lejos de ser bueno, toda la documentacion necesaria esta en el programa comentado todo, cualquier otra duda acerca de los comandos visitar la Archwiki.org
